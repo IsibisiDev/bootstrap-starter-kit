@@ -1,5 +1,5 @@
 # bootstrap-starter-kit
-This is a simple Bootstrap Starter Kit just ready to use
+Bootstrap starter kit is a simple kit with already integrated Bootstrap ready for use.
 
 Created by zIsibisi - WebDesigner<br>
 WebSite: http://isibisitgbots.altervista.org/<br>
