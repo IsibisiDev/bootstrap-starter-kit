@@ -1,11 +1,11 @@
 INFORMAZIONI SUL CREATORE
-Creatore Starter Kit: zIsibisi - WebDesigner
+Creatore Bootstrap Starter Kit: zIsibisi - WebDesigner
 GitHub: https://github.com/IsibisiDev
-Sito web: http://isibisitgbots.altervista.org
-Forum di supporto: http://isibisitgbots.altervista.org/forum
+Sito web: http://isibisitgbots.altervista.org/blog/
+Forum di supporto: http://isibisitgbots.altervista.org/forum/
 
 INFORMAZIONI SU BOOTSTRAP STARTER KIT:
-Kit Version: 1.0
+Kit Version: 1.1
 
 Framework principale: Bootstrap v4.0.0 (https://getbootstrap.com)
 
