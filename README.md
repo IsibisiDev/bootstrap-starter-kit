@@ -2,7 +2,7 @@
 What is "Bootstrap Starter Kit"?
 Bootstrap starter kit is a simple kit with Bootstrap ready to use.
 
-INFORMATION ABOUT THE CREATOR
+INFORMATION ABOUT THE CREATOR<br>
 Bootstrap Starter Kit maker: zIsibisi - WebDesigner<br>
 GitHub: https://github.com/IsibisiDev<br>
 WebSite: http://isibisitgbots.altervista.org/blog/<br>
