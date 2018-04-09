@@ -11,7 +11,7 @@ Support forum: http://isibisitgbots.altervista.org/forum/<br>
 INFORMATION ON BOOTSTRAP STARTER KIT:<br>
 Kit Version: 1.1
 
-Framework principale: Bootstrap v4.1.0 (https://getbootstrap.com)<br>
+Main framework: Bootstrap v4.1.0 (https://getbootstrap.com)<br>
 
 Font Awesome: Font Awesome Free 5.0.9 by @fontawesome - https://fontawesome.com | License - https://fontawesome.com/license (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)<br>
 
