@@ -1,4 +1,6 @@
 # bootstrap-starter-kit
+[![Build Status](https://travis-ci.org/IsibisiDev/bootstrap-starter-kit.svg?branch=master)](https://travis-ci.org/IsibisiDev/bootstrap-starter-kit)
+
 What is "Bootstrap Starter Kit"?<br>
 Bootstrap starter kit is a simple kit with Bootstrap ready to use.
 
