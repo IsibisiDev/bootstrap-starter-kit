@@ -1,19 +1,19 @@
 # bootstrap-starter-kit
 [![Build Status](https://travis-ci.org/IsibisiDev/bootstrap-starter-kit.svg?branch=master)](https://travis-ci.org/IsibisiDev/bootstrap-starter-kit)
 
-What is "Bootstrap Starter Kit"?<br>
+What is "Bootstrap Starter Kit"?
 Bootstrap starter kit is a simple kit with Bootstrap ready to use.
 
-INFORMATION ABOUT THE CREATOR<br>
-Bootstrap Starter Kit maker: zIsibisi - WebDesigner<br>
-GitHub: https://github.com/IsibisiDev<br>
-WebSite: http://isibisitgbots.altervista.org/blog/<br>
-Support forum: http://isibisitgbots.altervista.org/forum/<br>
-<br>
-INFORMATION ON BOOTSTRAP STARTER KIT:<br>
-Kit Version: 1.1
+INFORMATION ABOUT THE CREATOR
+Bootstrap Starter Kit maker: zIsibisi - WebDesigner
+GitHub: https://github.com/IsibisiDev
+WebSite: http://isibisitgbots.altervista.org/blog/
+Support forum: http://isibisitgbots.altervista.org/forum/
 
-Main framework: Bootstrap v4.1.2 (https://getbootstrap.com)<br>
+INFORMATION ON BOOTSTRAP STARTER KIT:
+Kit Version: 1.2
+
+Main framework: Bootstrap v4.1.3 (https://getbootstrap.com)
 
 Font Awesome: Font Awesome Free 5.1.1 by @fontawesome - https://fontawesome.com | License - https://fontawesome.com/license (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)<br>
 
