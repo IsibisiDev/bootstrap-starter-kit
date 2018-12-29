@@ -7,15 +7,15 @@ Bootstrap starter kit is a simple kit with Bootstrap ready to use.
 INFORMATION ABOUT THE CREATOR<br>
 Bootstrap Starter Kit maker: zIsibisi - WebDesigner<br>
 GitHub: https://github.com/IsibisiDev<br>
-WebSite: http://isibisitgbots.altervista.org/blog/<br>
-Support forum: http://isibisitgbots.altervista.org/forum/<br>
+WebSite: https://isibisitgbots.altervista.org/<br>
+Support forum: https://isibisitgbots.altervista.org/<br>
 <br>
 INFORMATION ON BOOTSTRAP STARTER KIT:<br>
-Kit Version: 1.2
+Kit Version: 1.3
 
-Main framework: Bootstrap v4.1.3 (https://getbootstrap.com)<br>
+Main framework: Bootstrap v4.2.1 (https://getbootstrap.com/)<br>
 
-Font Awesome: Font Awesome Free 5.1.1 by @fontawesome - https://fontawesome.com | License - https://fontawesome.com/license (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)<br>
+Font Awesome: Font Awesome Free 5.6.3 by @fontawesome - https://fontawesome.com | License - https://fontawesome.com/license (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)<br>
 
 jQuery: jQuery v3.3.1 | (c) JS Foundation and other contributors | jquery.org/license<br>
 
