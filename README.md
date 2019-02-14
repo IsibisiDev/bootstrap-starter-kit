@@ -11,9 +11,9 @@ WebSite: https://isibisitgbots.altervista.org/<br>
 Support forum: https://isibisitgbots.altervista.org/forum<br>
 <br>
 INFORMATION ON BOOTSTRAP STARTER KIT:<br>
-Kit Version: 1.4
+Kit Version: 1.5
 
-Main framework: Bootstrap v4.3.0 (https://getbootstrap.com/)<br>
+Main framework: Bootstrap v4.3.1 (https://getbootstrap.com/)<br>
 
 jQuery: jQuery v3.3.1 | (c) JS Foundation and other contributors | jquery.org/license<br>
 
